@@ -7,27 +7,7 @@ public class main {
 //            String O1, O2;
             float ans = 0.0F;
             double i, j;
-//            zalikova = 1210;
-//            C2 = zalikova % 2;
-//            C3 = zalikova % 3;
-//            C5 = zalikova % 5;
-//            C7 = zalikova % 7;
-//
-//            switch (C2){
-//                case 0: O1 = "+"; break;
-//                case 1: O1 = "-"; break;
-//            }
-//            C = C3;
-//            switch (C5){
-//                case 0: O2 = "*"; break;
-//                case 1: O2 = "/"; break;
-//                case 2: O2 = "%"; break;
-//                case 3: O2 = "+"; break;
-//                case 4: O2 = "-"; break;
-//            }
-
-
-            try {
+           try {
                 System.out.print("i = ");
                 i = in.nextDouble();
                 System.out.print("j = ");
